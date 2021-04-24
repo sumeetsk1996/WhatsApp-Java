@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038666764949",
+    "project_id": "sumeet-whatsapp",
+    "storage_bucket": "sumeet-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038666764949:android:b038f36e55532e371f819c",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038666764949-goeh6haschbkg2ec1tqt0q0s17f1el3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDNkBIWa0QWvn0sGDLEwuXWDDAeYQJt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038666764949-goeh6haschbkg2ec1tqt0q0s17f1el3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
